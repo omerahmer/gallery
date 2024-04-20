@@ -4,8 +4,8 @@
 
 - [x] Make it deploy
 - [x] Scaffold basic UI with mock data
-- [ ] Set up database
-- [ ] Attach database to UI
+- [x] Set up database
+- [x] Attach database to UI
 - [ ] Add auth
 - [ ] Add image upload
 - [ ] Error management (Sentry)
